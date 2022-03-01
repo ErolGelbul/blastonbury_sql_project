@@ -26,7 +26,7 @@ I was given information about a festival. The information follows:
 My job was to design a system where stakeholders would be able to view performances happening at a certain stage and which people were allowed
 to enter depending on their role. Additionally, I was asked to query specific information they wanted me to collect from the database.
 
-Some design notes:
+Notes:
 * The line-up may be produced by printing out the attributes of the “Performance” entity.
 * “Agent” entity is excluded from the “Band” entity for security reasons in the specification.
 * “Optional/Mandatory Relationships” were not considered due to the example layout.
