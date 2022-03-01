@@ -7,10 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Blastonbury: SQL Database Project
 
-Check out my [blog post](https://erolgelbul.com/project-blog/blastonbury-database) on the project
-
-
-* Oracle 12i system via SQL Developer (a client which alows you to communicate with an Oracle Database).
+Oracle 12i system via SQL Developer (a client which alows you to communicate with an Oracle Database).
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
