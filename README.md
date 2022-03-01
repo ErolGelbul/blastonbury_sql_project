@@ -44,7 +44,7 @@ Some design notes:
 
 Erol Gelbul - [Website](erolgelbul.com) - erolgelbul@gmail.com
 
-Project Link: [Graphing Calculator](https://github.com/ErolGelbul/low_level_graph_calculator)
+Project Link: [Blastonbury SQL](https://github.com/ErolGelbul/blastonbury_sql_project)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
