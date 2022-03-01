@@ -1,0 +1,66 @@
+1.
+SELECT given_name, family_name
+FROM Member
+WHERE band_name IN ( 'Castille' );
+
+
+2.
+SELECT stage_no, stage_name
+FROM Stage
+WHERE  capacity > 8000;
+
+
+4.
+SELECT s.stage_name, COUNT(*)
+FROM (stage s JOIN performance p ON ( s.stage_no = p.stage_no ))
+              JOIN member m ON ( p.band_name = m.band_name);
+GROUP BY s.stage_name;
+WHERE s.stage_name = "Spartan"
+
+
+--SELECT s.stage_name
+--FROM stage s, performace p, member m
+--WHERE s.stage_no = p.stage_no
+    --AND p.band_name = m.band_name;
+
+
+5.
+
+SELECT m.family_name || ', ' || m.given_name AS "Name"
+FROM (stage s JOIN performance p ON ( s.stage_no = p.stage_no ))
+              JOIN member m ON ( p.band_name = m.band_name)
+WHERE s.stage_name IN ( 'Spartan' );  
+
+
+
+
+
+6.
+SELECT s.stage_no, s.stage_name, s.capacity, p.date_time
+FROM (stage s JOIN performance p ON ( s.stage_no = p.stage_no ))
+WHERE p.performanceid IN ( 'YSADF1', 'FH2EF1' );
+
+
+
+
+
+8:
+
+SELECT m.family_name, m.given_name,
+       TO_CHAR ( m.dob, 'YYYY' ) AS "Year"
+FROM member m, band b, agent a
+WHERE m.band_name = b.name
+  AND b.agent_no = a.agent_no
+  AND a.agent_no = '1199'
+ORDER BY m.family_name ASC, m.given_name ASC;
+
+
+9.
+
+SELECT family_name, given_name,
+       TRUNC(MONTHS_BETWEEN(CURRENT_DATE,dob)/12) AS "Age"
+FROM Member
+WHERE band_name = 'Rorokoro';
+
+
+
