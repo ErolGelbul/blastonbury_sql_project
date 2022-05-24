@@ -1,6 +1,7 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/v4.png" /></div>
+
+<div style="text-align:center"><img src="images/cover_image.jpg" /></div>
 
 
 
@@ -16,6 +17,10 @@ Oracle 12i system via SQL Developer (a client which alows you to communicate wit
 
 <!-- Design -->
 ## Design
+
+
+<div style="text-align:center"><img src="images/v4.png" /></div>
+<br></br>
 
 I was given information about a festival. The information follows:
 * the schedule,
