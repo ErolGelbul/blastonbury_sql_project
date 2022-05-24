@@ -44,7 +44,7 @@ Notes:
 <!-- CONTACT -->
 ## Contact
 
-Erol Gelbul - [Website](erolgelbul.com) - erolgelbul@gmail.com
+Erol Gelbul - [Website](erolgelbul.com)
 
 Project Link: [Blastonbury SQL](https://github.com/ErolGelbul/blastonbury_sql_project)
 
