@@ -20,8 +20,7 @@ Oracle 12i system via SQL Developer (a client which alows you to communicate wit
 
 <center>
 
-<div style="text-align:center"><img src="images/v4.png" /></div>
-![Alt text](/path/to/image.jpg)
+![](/images/v4.png)
 
 </center>
 
