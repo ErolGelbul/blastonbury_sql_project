@@ -18,11 +18,7 @@ Oracle 12i system via SQL Developer (a client which alows you to communicate wit
 <!-- Design -->
 ## Design
 
-<center>
-
-![](/images/v4.png)
-
-</center>
+<div style="text-align:center"><img src="images/v4.png" /></div>
 
 I was given information about a festival. The information follows:
 * the schedule,
