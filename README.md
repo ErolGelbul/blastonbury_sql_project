@@ -4,24 +4,20 @@
   <img src="images/cover_image.jpg">
 </p>
 
-<!-- <div style="text-align:center"><img src="images/cover_image.jpg" /></div> -->
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## Blastonbury: SQL Database Project
 
 Oracle 12i system via SQL Developer (a client which alows you to communicate with an Oracle Database).
 
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- Design -->
 ## Design
 
-<div style="text-align:center"><img src="images/v4.png" /></div>
+<p align="center">
+  <img src="images/v4.png">
+</p>
 
 I was given information about a festival. The information follows:
 * the schedule,
