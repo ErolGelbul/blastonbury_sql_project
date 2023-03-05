@@ -1,7 +1,10 @@
 <div id="top"></div>
 
+<p align="center">
+  <img src="images/cover_image.jpg">
+</p>
 
-<div style="text-align:center"><img src="images/cover_image.jpg" /></div>
+<!-- <div style="text-align:center"><img src="images/cover_image.jpg" /></div> -->
 
 
 
